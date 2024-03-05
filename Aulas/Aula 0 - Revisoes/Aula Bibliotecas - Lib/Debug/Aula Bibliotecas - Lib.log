@@ -1,0 +1,4 @@
+﻿  Funcoes.c
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Aula Bibliotecas - Lib\Funcoes.h(20,2): warning C4091: 'typedef ': ignored on left of 'Pessoa' when no variable is declared
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Aula Bibliotecas - Lib\Funcoes.h(28,2): warning C4091: 'typedef ': ignored on left of 'Calculo' when no variable is declared
+  Aula Bibliotecas - Lib.vcxproj -> D:\Temp\Semestre 2\EDA-ESIN\Aulas\Debug\Aula Bibliotecas - Lib.lib

@@ -1,0 +1,6 @@
+﻿  Calculadora.c
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Calculadora\Xiineses\Funcoes.h(20,2): warning C4091: 'typedef ': ignored on left of 'Pessoa' when no variable is declared
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Calculadora\Xiineses\Funcoes.h(28,2): warning C4091: 'typedef ': ignored on left of 'Calculo' when no variable is declared
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Calculadora\Calculadora.c(20,8): warning C4013: 'getche' undefined; assuming extern returning int
+D:\Temp\Semestre 2\EDA-ESIN\Aulas\Calculadora\Calculadora.c(16,17): warning C4101: 'a': unreferenced local variable
+  Calculadora.vcxproj -> D:\Temp\Semestre 2\EDA-ESIN\Aulas\Debug\Calculadora.exe
