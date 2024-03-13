@@ -14,6 +14,8 @@
 #pragma warning (disable:4996)
 #pragma warning (disable:6011)
 
+
+
 int main() {
 
 #pragma region Ex1
@@ -91,7 +93,12 @@ int main() {
 #pragma endregion
 
 
-return 0;
+	Inteiro* a = CriaInteiro(12);
+	Inteiro* inicio = NULL;
+
+	inicio = Insere(inicio, a);
+	
+	return 0;
 }
 
 
