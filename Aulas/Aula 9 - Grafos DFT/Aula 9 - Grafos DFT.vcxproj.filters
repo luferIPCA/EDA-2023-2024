@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AMStack.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_dft.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stack.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphs.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{08841e8e-e455-463a-b18e-f59c3208a08a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{7c0fa508-7d87-4047-9ac8-ac8d19b461d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
