@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_bft.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AMQueue.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graph.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{ea6858a1-48c6-4f10-b989-0abfad205ef2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{dbf9bf4b-541e-4057-85b4-adb05627e75e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
